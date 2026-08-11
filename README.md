@@ -25,6 +25,18 @@
 
 ---
 
+## Project Preview
+
+<a href="https://www.loom.com/share/136fd478e1314e5d947b15ed86243428" target="_blank">
+
+<img src="https://raw.githubusercontent.com/snehal395jadhav/AI_CHEM_LAB/main/Screenshot.png"  width="95%"/>
+
+</a>
+
+👉 [Click here to watch full screen demo](https://www.loom.com/share/136fd478e1314e5d947b15ed86243428)
+
+---
+
 # Overview
 
 ChemVirtualLab AI is an advanced AI-powered virtual chemistry laboratory designed to combine interactive scientific learning, 3D molecular visualization, reaction simulation, chemistry calculations, spectroscopy, crystal structures, adaptive quizzes, and AI-assisted chemistry analysis within one immersive platform.
