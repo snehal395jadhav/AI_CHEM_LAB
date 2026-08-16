@@ -8,41 +8,7 @@ from utils.openrouter_ai import MODELS, call_openrouter, CHEM_SYSTEM_PROMPT
 
 st.set_page_config(page_title="Chem Agent | ChemVerse AI", page_icon=":material/smart_toy:", layout="wide")
 st.markdown(MAIN_CSS, unsafe_allow_html=True)
-from utils.sidebar import render_sidebar as _rsb; _rsb()
-
-_THREE = "https://unpkg.com/three@0.160.0/build/three.min.js"
-_PAL   = ['#22d3ee','#8B5CF6','#FF00FF','#FF8800','#00FFB4','#FF4488','#FFD700','#a855f7']
-
-# ── Global CSS ─────────────────────────────────────────────────────────────────
-st.markdown("""<style>
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Inter:wght@400;500;600;700&family=Rajdhani:wght@500;700&family=Share+Tech+Mono&display=swap');
-
-/* page */
-.main .block-container{padding:0.3rem 0.6rem 1.5rem!important;max-width:100%!important;}
-
-/* ── Top bar ── */
-.cv-topbar{
-    display:flex;align-items:center;justify-content:space-between;
-    padding:10px 20px;
-    background:rgba(10,5,30,0.96);
-    border:1px solid rgba(100,60,210,0.2);
-    border-radius:16px;margin-bottom:8px;
-}
-.cv-topbar-title{
-    font-family:'Orbitron',monospace;font-size:1em;font-weight:900;
-    letter-spacing:3px;
-    background:linear-gradient(135deg,#c084fc,#8B5CF6 40%,#22d3ee);
-    -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
-}
-.cv-topbar-right{display:flex;align-items:center;gap:10px;}
-.cv-search-box{
-    display:flex;align-items:center;gap:6px;
-    background:rgba(20,10,55,0.8);border:1px solid rgba(100,60,200,0.25);
-    border-radius:22px;padding:6px 14px;
-    font-family:'Inter',sans-serif;font-size:12px;color:rgba(180,155,255,0.5);
-}
-.cv-user-avatar{
-    width:34px;height:34px;border-radius:50%;
+from u
     background:linear-gradient(135deg,#7c3aed,#0ea5e9);
     display:flex;align-items:center;justify-content:center;
     font-size:14px;box-shadow:0 0 12px rgba(139,92,246,0.4);
