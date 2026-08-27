@@ -6,6 +6,7 @@
 
 # ChemVirtualLab AI
 
+
 ### AI Chemistry Laboratory • 3D Molecules • Virtual Experiments • Reaction Simulation • AI Tutor
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1150&lines=AI-Powered+Virtual+Chemistry+Laboratory;Interactive+3D+Molecule+Visualization;Reaction+Simulation+and+Stoichiometry;Spectroscopy+and+Crystal+Structure;OpenRouter+AI+Chemistry+Tutor;Explore+Learn+Experiment+with+AI"/>
